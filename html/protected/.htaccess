@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Ansible is good"
-AuthUserFile /var/www/html/protected
-Require valid-user
